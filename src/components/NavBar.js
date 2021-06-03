@@ -1,8 +1,11 @@
 import React from 'react'
+// Bootstrap
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import NavDropdown from "react-bootstrap/NavDropdown";
+// React icons
+import { FaShoppingCart} from 'react-icons/fa'
 
 
 const NavBar = () => {
@@ -22,6 +25,8 @@ const NavBar = () => {
         <NavDropdown.Item href="#action/3.4">Sports Fit</NavDropdown.Item>
       </NavDropdown>
       <Nav.Link href="#link">Checkout</Nav.Link>
+      <Nav.Link href="#link"><FaShoppingCart size="1.5em" color="gray"/></Nav.Link>
+      
       
     </Nav>
   </Navbar.Collapse>

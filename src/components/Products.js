@@ -9,6 +9,8 @@ import converse from '../images/converse.jpg';
 import heelsJeans from '../images/heelsJeans.jpg';
 import wedges from '../images/wedges.jpg';
 
+
+
 const Products = () => {
     return ( 
 

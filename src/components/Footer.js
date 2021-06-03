@@ -1,8 +1,11 @@
 import React from 'react';
+// Bootstrap
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+//React icons
 import { FaTwitter, FaFacebook, FaInstagram, FaPinterest} from 'react-icons/fa'
+// logo
 import logo from './logo.png';
 
 const Footer = () => {

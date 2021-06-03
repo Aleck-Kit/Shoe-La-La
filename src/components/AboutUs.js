@@ -1,7 +1,10 @@
 import React from 'react'
+// Bootstrap
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+//React Icons
+import { FaGlobe, FaUser, FaShoppingCart} from 'react-icons/fa'
 
 const AboutUs = () => {
     return ( 
@@ -18,7 +21,7 @@ const AboutUs = () => {
 
       <Row className="mt-4">
         <Col className="sm-4">
-          <h4>+200</h4>
+          <h4><FaGlobe size="2em" color="black"/> +200</h4>
 
           <hr />
 
@@ -27,7 +30,7 @@ const AboutUs = () => {
         </Col>
 
         <Col className="sm-4">
-          <h4>+500</h4>
+          <h4><FaShoppingCart size="2em" color="black"/> +500</h4>
 
           <hr />
 
@@ -35,7 +38,7 @@ const AboutUs = () => {
         </Col>
 
         <Col className="sm-4">
-          <h4>1000s</h4>
+          <h4><FaUser size="2em" color="black"/> 1000s</h4>
 
           <hr />
 

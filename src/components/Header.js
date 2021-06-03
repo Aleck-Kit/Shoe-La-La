@@ -1,7 +1,8 @@
 import React from 'react';
+// logo
 import logo from './logo.png';
+//Bootstrap
 import Jumbotron from 'react-bootstrap/Jumbotron'
-// import Container from 'react-bootstrap/Container'
 import Button from 'react-bootstrap/Button'
 
 
@@ -17,7 +18,7 @@ const Header = (props) => {
         <img src={logo} className="App-logo" alt="logo" />
       <div className="w-100 text-white">
         <h1 className="display-3">{props.loggedIn ? `Hello, ${props.name}. What shoes would you like today?` : 'Please log in'}</h1>
-        <p className="lead mb-0"><Button className="btn-lg text-dark pinkButton" style={{backgroundColor: '#ffb1b9'}} variant="primary">Let's Go Shopping!</Button></p>
+        <p className="lead mb-0"><Button className="btn-lg text-dark pinkButton" style={{backgroundColor: '#ffb1b9', border:'3px solid white'}} variant="primary">Let's Go Shopping!</Button></p>
       </div>
     </div>
   </div>
