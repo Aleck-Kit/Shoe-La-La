@@ -15,7 +15,7 @@ const Footer = () => {
         <Container className="py-5">
           <Row className="py-4">
             <Col className="lg-4 md-6 mb-4 mg-lg-0">
-              <img src={logo} alt="" width="180" className="mb-3"/>
+              <img src={logo} alt="" width="180" className="mb-3" style={{boxShadow: '0 10px 20px -8px rgba(0,0, 0, .7)'}}/>
               <p className="font-italic text-muted">Your next perfect pair, at the perfect price</p>
               <ul className="list-inline mt-4">
                 <li className="list-inline-item"><a href="#" target="_blank" title="twitter"><FaTwitter size="2em" color="gray"/></a></li>

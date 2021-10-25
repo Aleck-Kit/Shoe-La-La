@@ -13,7 +13,7 @@ export const cards = [
         id: 3,
         img: 'https://cdn.shopify.com/s/files/1/0258/9006/2426/products/3903573036_718688624_91bf4fb5-10b3-4a15-914c-184f2c5e1f53_800x.jpg?v=1586737409',
         title: 'Casual Fit',
-        text: `Chic and comfortable. Easy as Sunday Morning.`
+        text: `Chic and comfortable. Easy like Sunday Morning.`
     }, {
         id: 4,
         img: 'https://cdn.shopify.com/s/files/1/0550/4617/6957/products/3_4cae664c-99b6-4cea-b888-e5c12cc06b7f_800x.jpg?v=1624617226',

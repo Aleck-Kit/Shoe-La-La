@@ -1,33 +1,34 @@
 import React from "react";
-import NavBar from "./components/NavBar";
-import Header from "./components/Header";
-import Products from "./components/Products";
-// import CardList from "./components/CardList";
-// import {cards} from "./components/cards"; 
-import ProductCard from "./components/ProductCard";
-import AboutUs from "./components/AboutUs";
-import Footer from "./components/Footer";
+import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import "./App.css";
+import NavBar from "./components/NavBar";
+import Home from './components/Home'
+import MyAccount from './components/MyAccount';
+import Store from "./components/Store";
+import Footer from "./components/Footer";
 
 
 
 
 
-const loggedIn = true;
 
 
 const App = () => {
   return (
-    <>
-    <NavBar/>
-    <Header name="Claire" loggedIn={loggedIn} />
-    <Products/>
-    {/* <CardList cards={cards}/> */}
-    <ProductCard/>
-    <AboutUs/>
-    <Footer/>
-
-    </>
+    <Router>
+      <div className="App">
+        <NavBar/>
+        <div className="content">
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route path="/MyAccount" component={MyAccount} />
+          <Route path="/Store" component={Store} />
+        </Switch>
+        </div>
+        <Footer/>
+      </div>  
+    </Router>
+    
   
   
   );
