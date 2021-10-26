@@ -33,7 +33,7 @@ const Store = () => {
                             </div>
                             {/* <!-- Product actions--> */}
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">View options</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="# ">View options</a></div>
                             </div>
                         </div>
                     </div>
@@ -63,7 +63,7 @@ const Store = () => {
                             </div>
                             {/* <!-- Product actions--> */}
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="# ">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -77,7 +77,7 @@ const Store = () => {
                             <div className="card-body p-4">
                                 <div className="text-center">
                                     {/* <!-- Product name--> */}
-                                    <h5 className="fw-bolder">Gucci Glitteratti</h5>
+                                    <h5 className="fw-bolder">Gucci Glitterati</h5>
                                     {/* <!-- Product price--> */}
                                     <span className="text-muted text-decoration-line-through">$80.00</span>
                                     $65.00
@@ -85,7 +85,7 @@ const Store = () => {
                             </div>
                             {/* <!-- Product actions--> */}
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="# ">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -112,7 +112,7 @@ const Store = () => {
                             </div>
                             {/* <!-- Product actions--> */}
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">View options</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="# ">View options</a></div>
                             </div>
                         </div>
                     </div>
@@ -134,7 +134,7 @@ const Store = () => {
                             </div>
                             {/* <!-- Product actions--> */}
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="# ">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -153,7 +153,7 @@ const Store = () => {
                             </div>
                             {/* <!-- Product actions--> */}
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">View options</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="# ">View options</a></div>
                             </div>
                         </div>
                     </div>
@@ -183,7 +183,7 @@ const Store = () => {
                             </div>
                             {/* <!-- Product actions--> */}
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="# ">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -210,7 +210,7 @@ const Store = () => {
                             </div>
                             {/* <!-- Product actions--> */}
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="# ">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
