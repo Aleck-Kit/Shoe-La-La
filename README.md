@@ -1,3 +1,40 @@
+# ![test2](shoelala.png)
+# Maharaja
+<table>
+<tr>
+<td>
+A site concept I developed for a local Indian restaurant that's been a mainstay in my city for decades, but has never had an online presence of any kind whatsoever. I sat with the restaurant's owners and we discussed what they most wanted the site to convey to their loyal customers. On the coding side of things, this was my first project utilising React and I was still getting the hang of implementing a JS framework in place of pure vanilla Javascript.
+</td>
+</tr>
+</table>
+
+
+## Site
+Have a look at the site here :  https://shoe-la-la.netlify.app/
+
+
+## Mobile support
+The site is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
+
+
+## Built with 
+
+- [HTML](https://www.w3schools.com/html/default.asp) - HTML is a language for publishing text-based and multimedia information on the World Wide Web.
+- [CSS](https://www.w3schools.com/Css/) - CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.
+- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
