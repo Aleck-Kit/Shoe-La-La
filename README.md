@@ -1,9 +1,10 @@
-# ![test2](shoelala.png)
-# Maharaja
+# ![test3](shoelala.png)
+# Shoe-La-La
 <table>
 <tr>
 <td>
-A site concept I developed for a local Indian restaurant that's been a mainstay in my city for decades, but has never had an online presence of any kind whatsoever. I sat with the restaurant's owners and we discussed what they most wanted the site to convey to their loyal customers. On the coding side of things, this was my first project utilising React and I was still getting the hang of implementing a JS framework in place of pure vanilla Javascript.
+This e-commerce site project was important in helping me further explore and understand certain concepts within the React framework, namely dynamically displaying different components based on a specific URL with React Router.
+  
 </td>
 </tr>
 </table>
